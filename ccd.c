@@ -16,5 +16,5 @@ greatest = a[i];
     }
     }
     printf(" %d", greatest);
-    getch();
+    
   }
